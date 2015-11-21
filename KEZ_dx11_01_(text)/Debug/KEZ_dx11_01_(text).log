@@ -1,0 +1,58 @@
+﻿  MyRender.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: DXGI_STATUS_OCCLUDED: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50092): см. предыдущее определение "DXGI_STATUS_OCCLUDED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: DXGI_STATUS_CLIPPED: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50101): см. предыдущее определение "DXGI_STATUS_CLIPPED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: DXGI_STATUS_NO_REDIRECTION: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50110): см. предыдущее определение "DXGI_STATUS_NO_REDIRECTION"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: DXGI_STATUS_NO_DESKTOP_ACCESS: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50119): см. предыдущее определение "DXGI_STATUS_NO_DESKTOP_ACCESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50128): см. предыдущее определение "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: DXGI_STATUS_MODE_CHANGED: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50137): см. предыдущее определение "DXGI_STATUS_MODE_CHANGED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: DXGI_STATUS_MODE_CHANGE_IN_PROGRESS: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50146): см. предыдущее определение "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: DXGI_ERROR_INVALID_CALL: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50161): см. предыдущее определение "DXGI_ERROR_INVALID_CALL"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: DXGI_ERROR_NOT_FOUND: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50170): см. предыдущее определение "DXGI_ERROR_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: DXGI_ERROR_MORE_DATA: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50179): см. предыдущее определение "DXGI_ERROR_MORE_DATA"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: DXGI_ERROR_UNSUPPORTED: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50188): см. предыдущее определение "DXGI_ERROR_UNSUPPORTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: DXGI_ERROR_DEVICE_REMOVED: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50197): см. предыдущее определение "DXGI_ERROR_DEVICE_REMOVED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: DXGI_ERROR_DEVICE_HUNG: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50206): см. предыдущее определение "DXGI_ERROR_DEVICE_HUNG"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: DXGI_ERROR_DEVICE_RESET: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50216): см. предыдущее определение "DXGI_ERROR_DEVICE_RESET"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: DXGI_ERROR_WAS_STILL_DRAWING: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50225): см. предыдущее определение "DXGI_ERROR_WAS_STILL_DRAWING"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: DXGI_ERROR_FRAME_STATISTICS_DISJOINT: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50235): см. предыдущее определение "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50244): см. предыдущее определение "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: DXGI_ERROR_DRIVER_INTERNAL_ERROR: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50254): см. предыдущее определение "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: DXGI_ERROR_NONEXCLUSIVE: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50263): см. предыдущее определение "DXGI_ERROR_NONEXCLUSIVE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: DXGI_ERROR_NOT_CURRENTLY_AVAILABLE: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50272): см. предыдущее определение "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50282): см. предыдущее определение "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: DXGI_ERROR_REMOTE_OUTOFMEMORY: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50291): см. предыдущее определение "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50469): см. предыдущее определение "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: D3D11_ERROR_FILE_NOT_FOUND: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50478): см. предыдущее определение "D3D11_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50488): см. предыдущее определение "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50497): см. предыдущее определение "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50445): см. предыдущее определение "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: D3D10_ERROR_FILE_NOT_FOUND: изменение макроопределения
+          c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50454): см. предыдущее определение "D3D10_ERROR_FILE_NOT_FOUND"
+  KEZ_dx11_01_(text).vcxproj -> C:\Users\Denis\OneDrive\Документы\Visual Studio 2013\Projects\KEZ_dx11_01_(text)\Debug\KEZ_dx11_01_(text).exe
