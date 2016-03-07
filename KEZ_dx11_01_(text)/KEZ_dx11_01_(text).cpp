@@ -20,7 +20,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	//render.push_back(k_render);
 	FrameworkDesc desc;
 	desc.render = render;
-	
+
 	framework.Init(desc);
 
 	framework.Run();
