@@ -41,7 +41,7 @@ namespace D3D11Framework
 		}
 		m_wnd->SetInputMgr(m_input);
 
-		if (!m_render->CreateDevice(m_wnd->GetHWND()))  ///СОЗДАТЬ ЦИКЛ по рендерам
+		if (!m_render->CreateDevice(m_wnd->GetHWND()))  
 		{
 			Log::Get()->Err("Не удалось создать рендер");
 			return false;
